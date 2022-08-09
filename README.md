@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on my DevOps skills!
+- 🌱 I’m currently learning Terraform.
 <!--
 **dlbroadwa/dlbroadwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
